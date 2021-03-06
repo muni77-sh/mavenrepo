@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://localhost:8110/repository/sample-rele/</url>
+            <url>http://192.168.0.108:8110/repository/sample-rele/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://localhost:8110/repository/sample-snap/</url>
+            <url>http://192.168.0.108:8110/repository/sample-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
